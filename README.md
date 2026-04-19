@@ -1,53 +1,35 @@
-# xInfoGet - X 每日技术深度资讯
+# AI & Tech Daily Digest
 
-从 X (Twitter) 自动抓取互联网行业领袖的深度技术见解，过滤营销垃圾内容，仅保留含高质量文章链接的推文，生成结构化中文日报。
+每日精选全球 AI 与前沿技术深度资讯。
 
-## 核心关注方向
+本仓库每天自动更新一篇结构化技术日报，聚焦人工智能、软件工程与互联网技术的最新进展。内容经过严格筛选，只保留有深度、有价值的技术见解与文章。
 
-- **AI 发展深度见解** — CEO/CTO/研究员的一手观点和战略分析
-- **AI 工作提效实践** — 真实的工具使用方法、工作流改进案例
-- **技术新思路** — 创新架构、开发范式变革
+## 关注方向
 
-## 可信来源
+- **AI 前沿动态** — 大模型能力演进、AI Safety、新架构与研究突破
+- **AI 工程实践** — Agent 开发、AI 编程工具、工作流自动化、效率提升方法论
+- **技术趋势洞察** — 行业领袖观点、技术战略分析、开发范式变革
+- **软件工程** — 云原生、开发者工具、开源项目、移动开发
 
-优先搜索以下行业领袖和机构：
+## 日报目录
 
-| 来源 | 身份 |
-|------|------|
-| @sama | Sam Altman, OpenAI CEO |
-| @karpathy | Andrej Karpathy, AI 研究 |
-| @AnthropicAI | Anthropic / Claude |
-| @OpenAI | OpenAI 官方 |
-| @ylecun | Yann LeCun, Meta AI |
-| @rauchg | Guillermo Rauch, Vercel CEO |
-| @AndrewYNg | Andrew Ng, AI 教育 |
+日报按日期存放在 [`reports/`](./reports/) 目录下。
 
-## 内容过滤规则
+| 日期 | 标题 | 亮点 |
+|------|------|------|
+| [2026-04-18](./reports/report_2026-04-18.md) | AI 自动对齐研究、Codex 全面升级 | Anthropic AARs / OpenAI Codex / GPT-Rosalind / Vercel open-agents |
 
-严格排除以下类型：
-- 骗订阅/骗关注（"XX 页 PDF"、"DM me"）
-- 空洞营销（"每月多赚 $XX"）
-- replies/likes 异常比 > 0.5 的水军推文
-- 无文章链接的空泛内容
+## 内容标准
 
-## 报告目录
+- 所有收录文章均附原文链接，可直接点击阅读
+- 每篇内容包含中文摘要、关键观点提炼、趋势分析
+- 严格过滤营销、引流、低质量内容
+- 优先收录含技术深度的博客、论文、官方公告
 
-每日报告存放在 [reports/](./reports/) 目录下，格式为 `report_YYYY-MM-DD.md`。
+## 订阅方式
 
-| 日期 | 报告 |
-|------|------|
-| 2026-04-18 | [report_2026-04-18.md](./reports/report_2026-04-18.md) |
+点击右上角 **Watch** 按钮即可在每日更新时收到通知。也可以 **Star** 收藏本仓库。
 
-## 工作方式
+---
 
-通过 Cursor IDE 内置浏览器（MCP Browser）自动化完成：
-
-1. 登录 X 平台
-2. 按可信来源和话题关键词搜索（`filter:links` + `min_faves` 过滤）
-3. 提取推文数据并应用质量过滤规则
-4. 用 WebFetch 验证文章链接的实际内容深度
-5. 生成结构化 Markdown 日报
-
-## License
-
-MIT
+*每日自动更新 | 中文技术日报 | AI & 前沿技术*
