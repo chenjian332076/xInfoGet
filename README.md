@@ -17,6 +17,7 @@
 
 | 日期 | 标题 | 亮点 |
 |------|------|------|
+| [2026-04-19](./reports/report_2026-04-19.md) | Opus 4.7、Glasswing、Agent 基础设施同台 | Project Think / OpenAI Agents SDK 沙箱 / GrandCode / LightThinker++ |
 | [2026-04-18](./reports/report_2026-04-18.md) | AI 自动对齐研究、Codex 全面升级 | Anthropic AARs / OpenAI Codex / GPT-Rosalind / Vercel open-agents |
 
 ## 内容标准
