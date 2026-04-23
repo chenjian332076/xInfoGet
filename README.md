@@ -17,6 +17,7 @@
 
 | 日期 | 标题 | 亮点 |
 |------|------|------|
+| [2026-04-23](./reports/report_2026-04-23.md) | 代理基础设施与安全拐点 | Agents SDK / Mythos Preview / A2UI / Agents CLI |
 | [2026-04-22](./reports/report_2026-04-22.md) | Codex 全流程升级与代理基础设施化 | Agents SDK / Codex 更新 / Project Think / AARs |
 | [2026-04-21](./reports/report_2026-04-21.md) | Agents SDK 与自动化对齐研究进展 | OpenAI Agents SDK / Anthropic AARs / Project Think / Gemma 4 |
 | [2026-04-20](./reports/report_2026-04-20.md) | Agent Framework 1.0、Opus 4.7 与多智能体突破 | Agent Framework 1.0 / Opus 4.7 / AARs / GrandCode / GPT-5.4-Cyber |
