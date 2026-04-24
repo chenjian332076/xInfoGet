@@ -17,6 +17,7 @@
 
 | 日期 | 标题 | 亮点 |
 |------|------|------|
+| [2026-04-24](./reports/report_2026-04-24.md) | 模型开源落地与代理工程化加速 | Hy3 开源 / Codex Labs / 异步子代理 / Kimi K2.6 |
 | [2026-04-23](./reports/report_2026-04-23.md) | 代理基础设施与安全拐点 | Agents SDK / Mythos Preview / A2UI / Agents CLI |
 | [2026-04-22](./reports/report_2026-04-22.md) | Codex 全流程升级与代理基础设施化 | Agents SDK / Codex 更新 / Project Think / AARs |
 | [2026-04-21](./reports/report_2026-04-21.md) | Agents SDK 与自动化对齐研究进展 | OpenAI Agents SDK / Anthropic AARs / Project Think / Gemma 4 |
