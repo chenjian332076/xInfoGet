@@ -17,6 +17,7 @@
 
 | 日期 | 标题 | 亮点 |
 |------|------|------|
+| [2026-04-26](./reports/report_2026-04-26.md) | Agents SDK 沙盒、Claude 4.7 与开源模型新标杆 | Agents SDK / Opus 4.7 / Gemma 4 / Robotics-ER |
 | [2026-04-25](./reports/report_2026-04-25.md) | GPT-5.5、o3/o4-mini 发布与千亿级基础设施竞赛 | GPT-5.5 / o3 / Anthropic 1000亿美元 / Karpathy AI原生开发 |
 | [2026-04-24](./reports/report_2026-04-24.md) | 模型开源落地与代理工程化加速 | Hy3 开源 / Codex Labs / 异步子代理 / Kimi K2.6 |
 | [2026-04-23](./reports/report_2026-04-23.md) | 代理基础设施与安全拐点 | Agents SDK / Mythos Preview / A2UI / Agents CLI |
