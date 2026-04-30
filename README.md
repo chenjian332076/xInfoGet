@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-04-30](./reports/report_2026-04-30.md) | Symphony、BioMysteryBench、MiMo-V2.5-Pro、社区安全 | Linear 编排 / 生信可验证评测 / 开源 MoE & 长程 Agent |
 | [2026-04-29](./reports/report_2026-04-29.md) | OpenAI×AWS、微软合伙修订、Workspace Agents、Project Deal | Bedrock 三件套 / 多云条款 / 代理市集实验 |
 | [2026-04-27](./reports/report_2026-04-27.md) | DeepSeek-V4, Project Tapestry, Agent Formalism & Ops | 1M Context / Sovereign Open Base / λ_A & Observability |
 | [2026-04-26](./reports/report_2026-04-26.md) | Google TPU 8t/8i, OpenAI Privacy Filter, Box Agent | TPU 8t/8i / Privacy Filter / Enterprise AI |
