@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-01](./reports/report_2026-05-01.md) | AAS、哥布林 RL、临床 ChatGPT、Qwen3.6、Ling 开源 | 通行密钥账户 / 人格奖励外溢 / HealthBench Pro / 稠密 27B & 万亿 MoE |
 | [2026-04-30](./reports/report_2026-04-30.md) | Symphony、BioMysteryBench、MiMo-V2.5-Pro、社区安全 | Linear 编排 / 生信可验证评测 / 开源 MoE & 长程 Agent |
 | [2026-04-29](./reports/report_2026-04-29.md) | OpenAI×AWS、微软合伙修订、Workspace Agents、Project Deal | Bedrock 三件套 / 多云条款 / 代理市集实验 |
 | [2026-04-27](./reports/report_2026-04-27.md) | DeepSeek-V4, Project Tapestry, Agent Formalism & Ops | 1M Context / Sovereign Open Base / λ_A & Observability |
