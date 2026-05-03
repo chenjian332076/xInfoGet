@@ -26,6 +26,7 @@ Daily reports are stored in [`reports/`](./reports/) directory.
 
 | Date | Title | Highlights |
 |------|-------|------------|
+| [2026-05-03](./reports/report_2026-05-03.md) | personal guidance 研究、Agents SDK v0.15、开发者调研、Karpathy Software 3.0 | 6% 人生建议对话 / ModelRefusalError / 审查工时超编写 / Sequoia Ascent |
 | [2026-05-01](./reports/report_2026-05-01.md) | AAS、哥布林 RL、临床 ChatGPT、Qwen3.6、Ling 开源 | 通行密钥账户 / 人格奖励外溢 / HealthBench Pro / 稠密 27B & 万亿 MoE |
 | [2026-04-30](./reports/report_2026-04-30.md) | Symphony、BioMysteryBench、MiMo-V2.5-Pro、社区安全 | Linear 编排 / 生信可验证评测 / 开源 MoE & 长程 Agent |
 | [2026-04-29](./reports/report_2026-04-29.md) | OpenAI×AWS、微软合伙修订、Workspace Agents、Project Deal | Bedrock 三件套 / 多云条款 / 代理市集实验 |
